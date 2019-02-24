@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "882838441410",
+    "firebase_url": "https://dieroller-51bce.firebaseio.com",
+    "project_id": "dieroller-51bce",
+    "storage_bucket": "dieroller-51bce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:882838441410:android:6f1c38833b8e34d0",
+        "android_client_info": {
+          "package_name": "com.joemarini.dieroller"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "882838441410-3hf06dkmcr0oqbhmssli7q9v9sapqkbn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.joemarini.dieroller",
+            "certificate_hash": "29a6804180b64d524951859a6918eef898f65f68"
+          }
+        },
+        {
+          "client_id": "882838441410-r7et8bfan6v4nvh4n36kdhkbkj1gge94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANyxKaksSYxPe0EcqUNjpsRkY7e1xRzBM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "882838441410-r7et8bfan6v4nvh4n36kdhkbkj1gge94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mID1"
+        android:title="Yahtzee" />
+    <item
+        android:id="@+id/mID2"
+        android:title="Clue" />
+    <item
+        android:id="@+id/mID3"
+        android:title="Backgammon" />
+    <item
+        android:id="@+id/mID4"
+        android:title="D&amp;D 2d10" />
+</menu>
